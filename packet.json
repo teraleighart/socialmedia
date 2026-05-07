@@ -1,0 +1,13 @@
+{
+  "name": "social-media-content-command-center",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hostinger-ready Node.js wrapper for the Social Media Content Command Center front-end",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
